@@ -3,7 +3,7 @@ This checklist helps you double check your work for Sprint 1.
 
 
 ## Background description, client goals, motivation
-- [ ] Project overview, background and goals were created.
+- [x] Project overview, background and goals were created.
 - [ ] DO-BE-FEEL list and GOAL MODEL were created. 
 - [ ] The goal model is consistent with the client understanding of the problem and with DO-BE-FEEL list.
 
